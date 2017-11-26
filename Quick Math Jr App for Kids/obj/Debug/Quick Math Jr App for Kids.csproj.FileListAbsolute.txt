@@ -1,0 +1,13 @@
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\bin\Debug\Quick Math Jr App for Kids.exe.config
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\bin\Debug\Quick Math Jr App for Kids.exe
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\bin\Debug\Quick Math Jr App for Kids.pdb
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick Math Jr App for Kids.csprojResolveAssemblyReference.cache
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick_Math_Jr_App_for_Kids.Form1.resources
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick_Math_Jr_App_for_Kids.Properties.Resources.resources
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick Math Jr App for Kids.csproj.GenerateResource.Cache
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick Math Jr App for Kids.csproj.CoreCompileInputs.cache
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick Math Jr App for Kids.exe
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick Math Jr App for Kids.pdb
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick_Math_Jr_App_for_Kids.Nhà.resources
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick_Math_Jr_App_for_Kids.Thuyền.resources
+H:\GitHub\LTNC\Quick Math Jr App for Kids\Quick Math Jr App for Kids\Quick Math Jr App for Kids\obj\Debug\Quick_Math_Jr_App_for_Kids.Xe_Bus.resources
